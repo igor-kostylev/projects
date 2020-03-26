@@ -9,7 +9,7 @@
   "author": "Igor",
   "license": "ISC",
   "devDependencies": {
-    "minimist": ">=1.2.2"
+    "minimist": ">=1.2.2",
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
@@ -19,7 +19,7 @@
     "normalize.css": "^8.0.1"
   },
   "dependencie": {
-     "minimist": ">=1.2.2"
+     "minimist": ">=1.2.2",
     "del": "^5.1.0",
     "gulp-autoprefixer": "^7.0.1",
     "slick-carousel": "^1.8.1"
